@@ -83,13 +83,13 @@ $~$
 
 ##  :outbox_tray: Set up
 - These are the steps required to install/run the project.
-- You can also directly proceed by using the live server [demo link](https://rs-labhub.github.io/I-Love-You/)
+- You can also directly proceed by using the live server [demo link](https://github.com/Praveenpanth786/i-love-you/)
 
 
 1. Clone the Repository: Open a terminal or command prompt and clone the I-Love-You repository from GitHub using the following command:
 
   ```bash
-    git clone https://github.com/RS-labhub/I-Love-You.git
+    git clone https://github.com/Praveenpanth786/i-love-you
   ```
 
 2. Navigate to the Repository Directory: Change your current directory to the cloned I-Love-You repository:
@@ -114,7 +114,7 @@ $~$
 
 1. `Fork` our repository to your GitHub account. 
 2. `Clone` your fork to your local machine. 
-    Use the command `git clone https://github.com/RS-labhub/I-Love-You/.git`.
+    Use the command `git clone https://github.com/Praveenpanth786/i-love-you`.
 3. Create a new branch for your work. 
     Use a descriptive name, like `fix-login-bug` or `add-user-profile-page`.
     
@@ -144,13 +144,13 @@ $~$
 
 ### :email: Contact 
 - Email and social media links.
-- Head over to my github handle form [here](https://github.com/RS-labhub)
+- Head over to my github handle form [here](https://github.com/Praveenpanth786)
 
 <p align="left">
 <a href="https://twitter.com/rrs00179" target="blank"><img align="center" src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="rrs00179" /></a>
 </p>
 <p align="left">
-<a href="https://www.linkedin.com/in/rohan-sharma-9386rs/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="rohan-sharma=9386" /></a>
+<a href="https://www.linkedin.com/in/praveenpanth/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="praveen-panth" /></a>
 </p>
 
 <p align="center">
